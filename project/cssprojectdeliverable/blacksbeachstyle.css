@@ -1,11 +1,11 @@
-/* Color Palette
+ /* Color Palette */
 Dark Sky Blue Hex: 93C6D6
 Blue Sapphire hex: 1f5673
 Columbia Blue hex: C4E0E9
 Alice Blue hex: F0F7F9
 Cornsilk: FDF5D8
 White
-*/
+
 
 img{
     width: 705px;
@@ -33,11 +33,11 @@ a{
     
 }
 h2{
-    color: #FDF5D8;
+    color:black;
     background-color: #93C6D6;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align: right;
+    text-align: center;
     line-height: 25px;
 }
 p{
@@ -67,6 +67,7 @@ ul{
     text-decoration: none;
     display: inline-block;
 }
+
 
 
 
